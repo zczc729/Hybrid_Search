@@ -1,0 +1,16 @@
+chromadb>=0.5.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+torch>=2.2.0
+rank-bm25>=0.2.2
+konlpy>=0.6.0
+pymupdf>=1.24.0
+openai>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.66.0
+jupyter>=1.0.0
+nbformat>=5.10.0
